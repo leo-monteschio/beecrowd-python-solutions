@@ -1,5 +1,4 @@
-def primeiro_programa():
+def first_program():
     return "Hello World!"
 
-
-print(primeiro_programa())
+print(first_program())
