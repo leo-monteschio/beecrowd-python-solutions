@@ -1,6 +1,7 @@
+def add(a, b):
+    return a + b
+
 A = int(input())
 B = int(input())
 
-sum = A + B
-
-print(f"Sum = {soma}")
+print(f"SOMA = {add(A, B)}")
